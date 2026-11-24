@@ -1,0 +1,7 @@
+switch,port,broadcast_pps
+SW-01,Gi0/1,1200
+SW-01,Gi0/2,250
+SW-01,Gi0/3,40
+SW-02,Gi0/5,180
+SW-02,Gi0/6,95
+SW-02,Gi0/7,lots
